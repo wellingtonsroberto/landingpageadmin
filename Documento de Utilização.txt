@@ -1,0 +1,37 @@
+================================
+ADMIN
+================================
+
+- Importar banco de dados dentro da pasta "BD"
+
+- Instalação de banco de dados : 
+
+PHPMYADMIN  -> CRIAR BANCO DE DADOS - > NOME "user_lp" - > IMPORTAR -> PASTA "BD" - > EXECUTAR.
+
+- Configuração de Banco de dados
+
+CONFIG -> ALTERAR ARQUIVO "init"
+
+================================
+LANDING-PAGE
+================================
+
+1. A LP esta todo desenvolvido responsivo / html / css / php
+
+2. É so alterar as informações / cores / fotos
+
+3. Sempre compactar imgs antes de subir no ftp utilizando os sites:
+https://tinyjpg.com/ ou https://www.img64.com/
+
+4. Fonte utilizada é a ROBOTO ( arquivo na pasta ) e google fonts
+https://fonts.google.com/specimen/Roboto
+
+5. Depois que subir testa no PageSpeed
+https://developers.google.com/speed/pagespeed/insights/
+Manter no VERDE.
+
+6. Testar formulários / enviar.
+
+7. Testar no celular.
+
+8. Testar armazenamento do banco de dados.
